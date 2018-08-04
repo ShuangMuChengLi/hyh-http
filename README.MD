@@ -1,6 +1,4 @@
-对html5的storage进行了封装，使得存储时可以存储对象，读取时也返回对象。
-
-The storage of html5 is encapsulated so that objects can be set and objects returned when get.
+对Node.js的http及https的post和get方法进行了封装
 
 #安装
 ```bash
