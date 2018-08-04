@@ -1,0 +1,26 @@
+{
+  "name": "hyh-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": {
+    "name": "linchaoqun",
+    "email": "lchaoqun@sina.cn"
+  },
+  "scripts": {
+    "test": "mocha ./test/*.js --timeout=8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ShuangMuChengLi/hyh-http.git"
+  },
+  "license": "ISC",
+  "homepage": "http://www.linchaoqun.com/",
+  "keywords": [
+    "html5-http"
+  ],
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
